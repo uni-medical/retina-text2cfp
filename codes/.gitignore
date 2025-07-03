@@ -1,0 +1,28 @@
+# Python cache
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Model files
+*.pth
+*.pt
+*.pkl
+
+# Results and outputs
+**/results/**
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Codes directory specific
+codes/__pycache__/
+codes/results/

@@ -1,0 +1,20 @@
+META:
+  - path: ./example_data/example_dataset1.json  
+    image_root: /path/to/your/dataset1/images
+  - path: ./example_data/example_dataset2.json  
+    image_root: /path/to/your/dataset2/images
+  # Additional dataset examples:
+  # - path: ./your_data/custom_dataset.json  
+  #   image_root: /path/to/custom/images
+  # - path: ./your_data/another_dataset.json  
+  #   image_root: /path/to/another/dataset/images
+  # - path: path2your_data1.json  
+  #   image_root: /path/to/dataset1/images
+  # - path: path2your_data2.json  
+  #   image_root: /path/to/dataset2/images
+  # - path: path2your_data3.json  
+  #   image_root: /another/path/to/images
+  # -
+  #   path: path2your_data4.json 
+
+  

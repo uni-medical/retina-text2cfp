@@ -1,0 +1,58 @@
+[
+    {
+        "image": "example_data/images/27597_right.jpeg",
+        "id": "23702",
+        "width": 2592,
+        "height": 3888,
+        "caption": "The provided image is a fundus photograph, primarily focusing on the internal surface of the eye, particularly the retina. The image appears noticeably blurry, with a diffuse yellowish glow that is more prominent at the bottom of the image. In the center of the image, near the left side, there is a distinct bright spot with an orange hue, indicating the optic disc. The entire field of view exhibits a general obstruction, with multiple slightly round lesions or elevations in the background. These areas appear darker and more pigmented than the surrounding retina, indicating significant irregular regions. The edges of the image seem to gradually merge into darker tones, consistent with the natural curvature of the eye or possibly representing the boundaries of the photographed area. Overall, the image depicts a complex retinal landscape, with various abnormalities and potential pathological regions scattered throughout the observable area."
+    },
+    {
+        "image": "example_data/images/8681_left.jpeg",
+        "id": "22863",
+        "width": 1920,
+        "height": 2560,
+        "caption":"The fundus photograph reveals various abnormalities within the retina, indicating significant pathological changes. The image is dominated by dark areas, which may represent non-perfused regions or obstructions. These areas contrast sharply with some brighter patches, particularly in the central and peripheral regions of the retina. Scattered throughout the retina are fine white lines and spots, which may indicate exudates or fibrotic changes. On the left side of the image, there is a bright circular structure, likely the optic disc, partially obscured and lacking clear definition. Surrounding the retina, signs of hemorrhages are visible, appearing as small dark red spots, suggestive of intraretinal or preretinal hemorrhages. Additionally, certain localized areas exhibit pale, reflective material, potentially representing hard exudates, adding to the complexity of the retinal landscape. The texture of the image is uneven, with both high-reflective and low-reflective zones, indicating varying degrees of retinal detachment or edema."
+    },
+    {
+        "image": "example_data/images/21096_right.jpeg",
+        "id": "23035",
+        "width": 1944,
+        "height": 2592,
+        "caption": "The provided image is a detailed retinal fundus photograph, showcasing various anatomical features and significant findings. The retina appears as a red, circular structure with a darker central area corresponding to the macula. The optic disc is clearly visible on the right side of the image, presenting as a pale, circular region from which the retinal blood vessels emerge. The retinal blood vessels are prominently visible, with the major arteries and veins traversing the retinal surface. Notably, these vessels exhibit irregularities such as abnormal dilation and areas of hemorrhage. Several regions show blood spots, indicating the presence of microaneurysms or minor hemorrhages. In multiple areas of the retina, there are white, fluffy patches indicative of cotton wool spots, which are manifestations of localized retinal ischemia. Additionally, the image reveals numerous small, dot-like or blot-like hemorrhages scattered across the retinal surface. Signs of neovascularization are also distinctly visible, with fine, irregular new blood vessels growing on the retinal surface. This neovascularization represents the retina's response to hypoxia."
+    },
+    {
+        "image": "example_data/images/3064_left.jpeg",
+        "id": "2d#cls#fundus_photography#eyepacs#images#3064_left.jpeg",
+        "width": 2592,
+        "height": 3888,
+        "caption": "The provided image is a detailed fundus photograph capturing the inner surface of the back of the eye, including the retina, optic disc, macula, and posterior pole. The optic disc is clearly visible as a relatively well-defined, circular area that appears slightly brighter than the surrounding retinal tissue. From the optic disc, blood vessels radiate outward, branching into a network across the retinal surface. The retinal background exhibits a mixed coloration, primarily ranging from pink to orange hues, indicating a combination of healthy retinal tissue and potential abnormalities. Several dark spots and areas of uneven pigmentation are visible, suggesting possible retinal hemorrhages or microaneurysms. Additionally, there are regions with lighter or mottled coloration, which may signify exudates or areas of retinal edema. In the upper portion of the image, there appears to be a distinct circular object, possibly indicating a retinal lesion or abnormality. The central area around the macula shows slight irregularities and discoloration, suggesting potential macular edema or disruptions commonly associated with advanced retinal conditions. The retinal blood vessels demonstrate an abnormal branching pattern, with subtle variations in caliber, possibly indicative of proliferative changes."
+    },
+    {
+        "image": "example_data/images/35335_left.jpeg",
+        "id": "47290",
+        "width": 1944,
+        "height": 2592,
+        "caption":"The fundus photograph provides a detailed view of the inner surface of the eye, primarily focusing on the retina. The retinal blood vessels are clearly visible radiating outward from the optic disc, which is slightly off-center to the left and exhibits a distinct pink coloration. On the retina, several scattered small white spots can be observed, possibly indicating the presence of exudates. Additionally, faint red microaneurysms or minor hemorrhages can be seen within the retinal layers, suggesting vascular changes in the retina. The macula, located at the center of the image, appears relatively darker, creating a high contrast with the surrounding retina. The capillary network in this region shows subtle variations compared to the more prominent major blood vessels. The retinal surface exhibits a mottled appearance due to the distribution of white spots and microaneurysms. This image captures the major vascular structures alongside secondary changes in the retinal background."
+    },
+    {
+        "image": "example_data/images/13651_right.jpeg",
+        "id": "39093",
+        "width": 3168,
+        "height": 4752,
+        "caption":"The provided image is a detailed fundus photograph showing the back of the eye. The retina appears to have significant abnormalities. The image displays a deep reddish-orange background, a typical feature of fundus images, accompanied by an increase in abnormal vascular structures and noticeable hemorrhages. Scattered across the retina are areas of white or opaque exudates, indicating severe retinal involvement. The presence of neovascularization, dark spots, and microaneurysms contributes to a complex pattern of retinal degeneration. Additionally, the optic disc appears obscured, suggesting proliferative changes."
+    },
+    {
+        "image": "example_data/images/16_right.jpeg",
+        "id": "98303",
+        "width": 2592,
+        "height": 3888,
+        "caption": "The provided fundus photograph captures the posterior part of the eye, revealing a complex vascular structure. The optic disc is prominently visible in the center-left portion of the image, characterized by a distinct circular area with a pale hue. Several blood vessels radiate from the optic disc, displaying noticeable tortuosity and dilation. These vessels extend outward, traversing all quadrants of the retina. The retinal surface is scattered with numerous hemorrhages or deep red spots, indicating compromised vascular integrity. Additionally, the presence of multiple exudates, appearing as yellow or white lesions, is evident across various areas, contributing to an overall mottled appearance. On closer inspection, cotton wool spots can be observed, appearing as ill-defined, white, cloud-like patches. The macula is identifiable but shows irregularities, suggesting edema or other pathological changes. The overall coloration of the retina is markedly uneven, ranging from red to pale, presenting a wide spectrum of tonal variations."
+    },
+    {
+        "image": "example_data/images/3992_left.jpeg",
+        "id": "35186",
+        "width": 1184,
+        "height": 1792,
+        "caption": "The retinal photograph reveals a detailed view of the retina, characterized by rich orange-red tones. Prominent vascular structures are visible branching out from the optic disc, which is clearly seen on the left side of the image as a brighter circular area. In the central and peripheral parts of the retina, noticeable yellowish-white patches are present, appearing to represent exudates and possibly indicating other abnormalities in the retinal tissue. These patches disrupt the otherwise uniform coloration of the retinal surface. The blood vessels vary in diameter, with certain areas showing more pronounced narrowing, while other regions may exhibit new, fragile blood vessels. Hemorrhagic spots are identifiable as deeper red areas scattered throughout the image. The macula, located centrally, may show signs of fluid accumulation or other abnormalities, with noticeable color changes and textural differences compared to the surrounding retinal tissue."
+    }
+]
