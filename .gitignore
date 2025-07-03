@@ -10,6 +10,7 @@
 
 # Results and outputs
 **/results/**
+**/.DS_Store/**
 
 # Environment
 .env
