@@ -19,7 +19,7 @@ CUDA_VISIBLE_DEVICES=0 torchrun --nproc-per-node=1 --master_port=38678 train.py 
     --global_seed 0 \
     --num_workers 24 \
     --local_diffusers_model_root None \
-    --init_from ./results/model_chkpt/checkpoints/model_id7 \
+    --init_from .path/2yourcheckpoint/folder/ \ # to train from the scratch, download the checkpoint from https://huggingface.co/Alpha-VLLM/Lumina-Next-T2I/tree/main
     --grad_clip 0.5 \
     --wd 0.00001 \
     --snr_type uniform
