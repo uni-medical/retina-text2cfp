@@ -57,6 +57,6 @@ Visit our [project page](scr/video720.mov) to watch the demonstration video.
 
 ## 🚨 Code Release
 
-We hope to make the source code for **RetinaLogos** available upon acceptance of the paper. Please stay tuned for updates, and the code will be shared on our GitHub repository as soon as it is ready.
+The source code for **RetinaLogos** please see [Instrucntions](codes/README.md)
 
 - **Acknowledgment**: We would like to express our gratitude to the authors of the **Lumina-Next** framework for their contributions, which helped strengthen and accelerate the development of our model. You can access their code here: [Lumina-Next](https://github.com/Alpha-VLLM/Lumina-T2X/tree/main/lumina_next_t2i) and [Lumina 2.0](https://github.com/Alpha-VLLM/Lumina-Image-2.0).
