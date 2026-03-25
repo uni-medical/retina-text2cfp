@@ -84,6 +84,6 @@ This fundus photograph captures a detailed view of the retina, showcasing its in
 
 Model checkpoints can be downloaded from the following link:
 
-**Checkpoint Download Link**: [Model](https://1drv.ms/f/c/b53a195b16c6fb0e/ErVc9gdh9ldOueaqnVoxs68BhQe5xtCxlAvg-VDs02uCDA?e=hsnnYR)
+**Checkpoint Download Link**: [Model]([https://1drv.ms/f/c/b53a195b16c6fb0e/ErVc9gdh9ldOueaqnVoxs68BhQe5xtCxlAvg-VDs02uCDA?e=hsnnYR](https://1drv.ms/f/c/b53a195b16c6fb0e/IgC1XPYHYfZXTrnmqp1aMbOvASYMhYUA-FmJQ38U4SvAYyo?e=2Q4gMx))
 
 After downloading the checkpoint files, please place them in the appropriate directory and update the model path configuration in the inference script.
