@@ -27,3 +27,6 @@ env/
 # Codes directory specific
 codes/__pycache__/
 codes/results/
+
+# Local checkpoints (hosted on Hugging Face)
+checkpoints/
