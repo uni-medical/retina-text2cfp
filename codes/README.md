@@ -84,6 +84,12 @@ This fundus photograph captures a detailed view of the retina, showcasing its in
 
 Model checkpoints can be downloaded from the following link:
 
-**Checkpoint Download Link**: [Model](https://1drv.ms/f/c/b53a195b16c6fb0e/IgA26pc-O5UkRLPctFgxdbzyAUIT3L31e3OfFnbAfK0cNbc?e=5YlYcG)
+**Checkpoint Download Link**: [🤗 junzhin/RetinaLogo](https://huggingface.co/junzhin/RetinaLogo)
+
+```python
+from huggingface_hub import snapshot_download
+
+ckpt_dir = snapshot_download(repo_id="junzhin/RetinaLogo")
+```
 
 After downloading the checkpoint files, please place them in the appropriate directory and update the model path configuration in the inference script.
